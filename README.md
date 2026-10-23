@@ -4,7 +4,6 @@
   </a>
 
   # Leantime®
-fwwefewfwefwe
   ⭐ **If you find Leantime useful, please star us on GitHub!** ⭐
 
   **Leantime** is an open-source project management system built for non-project managers.<br>
