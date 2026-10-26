@@ -35,7 +35,7 @@
   <img src="public/assets/images/Screenshots/mywork-v3.5.png" alt="Leantime Dashboard" width="100%" style="border-radius: 8px; border: 1px solid #333;" />
 </div>
 
----
+-----------
 
 ## 🚀 Features
 
