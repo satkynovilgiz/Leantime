@@ -77,7 +77,7 @@
 * **Required PHP Extensions:** 
   `bcmath`, `ctype`, `curl`, `dom`, `exif`, `fileinfo`, `filter`, `gd`, `hash`, `ldap`, `mbstring`, `mysql`, `opcache`, `openssl`, `pcntl`, `pcre`, `pdo`, `phar`, `session`, `tokenizer`, `zip`, `simplexml`
 
----
+---------
 
 ## ⚡ Installation & Deployment
 
